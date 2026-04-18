@@ -1,4 +1,7 @@
 {
+  "homepage": ".",
+  "name": "guess-the-number-game",
+  "version": "0.1.0",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
